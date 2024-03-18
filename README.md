@@ -20,7 +20,7 @@ This is a Todo App that uses Laravel as the backend framework and Nuxt.js as the
    Then, run the following command to build and start the Docker containers:
 
 ```bash
-   docker-compose up -d --build
+   docker compose up -d --build
 ```
 
 2. Execute the migration of backend:
@@ -37,7 +37,7 @@ This is a Todo App that uses Laravel as the backend framework and Nuxt.js as the
    Then, run the following command to build and start the Docker containers:
 
 ```bash
-   docker-compose up -d --build
+   docker compose up -d --build
 ```
 
 2. Then you can now run the site by accessing [localhost:3000](http://localhost:3000).
